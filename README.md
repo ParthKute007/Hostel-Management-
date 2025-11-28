@@ -36,4 +36,3 @@
   1.	Restart App: Close the terminal and run python main.py again.
   2.	Verify Data: Check if the student "John Doe" still exists in the system.
 
-
